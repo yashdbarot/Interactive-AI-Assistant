@@ -27,7 +27,7 @@ The Interactive AI Assistant is an intelligent system designed to facilitate sea
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yashdbarot/newai.git
+   git clone https://github.com/yashdbarot/Interactive-AI-Assistant.git
 
 2. Navigate to the project directory:
    ```bash
